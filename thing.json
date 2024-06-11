@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "author": "sz5ylv1a",
+        "version": "1.1.0",
+        "name": "Custom Deep Dark Mint Green Thing",
+        "license": "WTFPL"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-VariableFont.ttf",
+        "whitney_bold": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-Bold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-SemiBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-SemiBold.ttf",
+        "ginto_medium": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-Medium.ttf",
+        "ginto_bold": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/Asap-Bold.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/sz5ylv1a\/CustomDeepDarkMintGreenThing\/raw\/main\/CascadiaMono-regular.ttf"
+    },
+    "simple_colors": {
+        "background": -15790321,
+        "background_secondary": -15000805,
+        "accent": -3803709,
+        "input_background": -15592942,
+        "blocked_bg": -16514044,
+        "statusbar": -15921907
+    },
+    "colors": {
+        "accent_material_dark": -3803709,
+        "abc_search_url_text": -16733441,
+        "link": -16733441,
+        "mtrl_choice_chip_ripple_color": -14540254,
+        "mtrl_btn_ripple_color": -14540254,
+        "mtrl_btn_text_btn_ripple_color": -14540254
+    },
+    "drawable_tints": {
+        "ic_chat_message_16dp": -14671840
+    },
+    "raws": {}
+}
